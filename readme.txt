@@ -2,4 +2,5 @@ This is a 'hello world'-project! Initialized with the git CLI...
 
 Now I will add some changes from github.com...
 
-And again... :-)
+
+In VS Code I can follow my changes easily!
